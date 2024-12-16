@@ -3,7 +3,11 @@ guid: b5f07eda020904760a2896a6cb73de0c
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Dance_Button1: {instanceID: 0}
+  - Dance_Button2: {instanceID: 0}
+  - Dance_Button3: {instanceID: 0}
+  - Avatar: {fileID: 7005463821746256991, guid: 88507f7242c359748b4e91a6e4468d1d, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
